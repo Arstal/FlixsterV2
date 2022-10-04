@@ -4,7 +4,7 @@ Submitted by: **Qihao Cai**
 
 **FlixsterV2** is a movie browsing app that allows users to browse the top rated movies according to IMDB
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
